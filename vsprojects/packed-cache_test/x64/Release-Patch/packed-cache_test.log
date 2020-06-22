@@ -1,0 +1,21 @@
+﻿生成启动时间为 2020/6/22 16:57:09。
+     1>项目“F:\gperftools-master1\gperftools-master\vsprojects\packed-cache_test\packed-cache_test.vcxproj”在节点 6 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“x64\Release-Patch\packed-c.605D3CED.tlog\unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\amd64\CL.exe /c /I"D:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W3 /WX- /O2 /GL /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release-Patch\\" /Fd"x64\Release-Patch\vc120.pdb" /Gd /TP /errorReport:prompt "..\..\src\tests\packed-cache_test.cc"
+         packed-cache_test.cc
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\gperftools-master1\gperftools-master\x64\Release-Patch\packed-cache_test.exe" /NOLOGO /LIBPATH:"D:\Program Files (x86)\Visual Leak Detector\lib\Win64" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /INCLUDE:__tcmalloc /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"F:\gperftools-master1\gperftools-master\x64\Release-Patch\packed-cache_test.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\gperftools-master1\gperftools-master\x64\Release-Patch\packed-cache_test.lib" /MACHINE:X64 "x64\Release-Patch\packed-cache_test.obj"
+         "F:\gperftools-master1\gperftools-master\x64\Release-Patch\libtcmalloc_minimal.lib"
+         正在生成代码
+         已完成代码的生成
+         packed-cache_test.vcxproj -> F:\gperftools-master1\gperftools-master\x64\Release-Patch\packed-cache_test.exe
+       FinalizeBuildStatus:
+         正在删除文件“x64\Release-Patch\packed-c.605D3CED.tlog\unsuccessfulbuild”。
+         正在对“x64\Release-Patch\packed-c.605D3CED.tlog\packed-cache_test.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\gperftools-master1\gperftools-master\vsprojects\packed-cache_test\packed-cache_test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.90
